@@ -43,5 +43,21 @@ h2{
     color: #BB8E67;
 }
 
+#footer .container{
+    background-color: #141C29;
+    color:#7E848C;
+    border-radius: 0.5rem;
+}
+
+#footer h1{
+    color:#BB8E67 !important;
+}
+
+#footer ul{
+    font-size: medium;
+    list-style-type: none;
+    padding-left: 0;
+}
+
 
 
