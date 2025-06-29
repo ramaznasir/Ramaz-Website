@@ -1,0 +1,47 @@
+body{
+    background-color: #7E848C;
+}
+
+#navbar header{
+    background-color: #141C29;
+}
+
+#navbar a{
+    color: #7E848C !important;
+    text-decoration: none;
+}
+
+#navbar a:hover{
+    color: #BB8E67 !important;
+}
+
+#hero > .container {
+    background-color: #141C29;
+}
+
+#hero h1{
+    color: #BB8E67 !important;
+}
+
+#hero p{
+    color: #7E848C;
+    margin-top: 2rem;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    color: #141C29;
+}
+
+#education .list-group-item{
+    background-color: #141C29;
+    color: #7E848C;
+}
+
+#education h6{
+    color: #BB8E67;
+}
+
+
+
